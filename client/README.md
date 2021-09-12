@@ -1,4 +1,4 @@
-https://613e04c886aceea68673b06a--romantic-boyd-fa4c43.netlify.app
+view = 'https://613e04c886aceea68673b06a--romantic-boyd-fa4c43.netlify.app'
 
 # Getting Started with Create React App
 
